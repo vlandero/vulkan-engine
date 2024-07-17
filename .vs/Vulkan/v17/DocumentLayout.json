@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\pipeline.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\app.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{593C593E-F630-48B0-ACCD-F92411AA6BB8}|Vulkan\\Vulkan.vcxproj|solutionrelative:Vulkan\\window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pipeline.cpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.cpp",
+              "RelativeDocumentMoniker": "Vulkan\\pipeline.cpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.cpp",
+              "RelativeToolTip": "Vulkan\\pipeline.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T19:56:17.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pipeline.hpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.hpp",
+              "RelativeDocumentMoniker": "Vulkan\\pipeline.hpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\pipeline.hpp",
+              "RelativeToolTip": "Vulkan\\pipeline.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T19:52:55.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.cpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.cpp",
+              "RelativeDocumentMoniker": "Vulkan\\app.cpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.cpp",
+              "RelativeToolTip": "Vulkan\\app.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T16:04:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.hpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.hpp",
+              "RelativeDocumentMoniker": "Vulkan\\app.hpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\app.hpp",
+              "RelativeToolTip": "Vulkan\\app.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T15:52:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "window.cpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.cpp",
+              "RelativeDocumentMoniker": "Vulkan\\window.cpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.cpp",
+              "RelativeToolTip": "Vulkan\\window.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T15:22:44.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "window.hpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.hpp",
+              "RelativeDocumentMoniker": "Vulkan\\window.hpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\window.hpp",
+              "RelativeToolTip": "Vulkan\\window.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-17T15:17:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\main.cpp",
+              "RelativeDocumentMoniker": "Vulkan\\main.cpp",
+              "ToolTip": "C:\\Users\\vlada\\Documents\\coding\\Vulkan\\Vulkan\\main.cpp",
+              "RelativeToolTip": "Vulkan\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-17T14:37:28.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
